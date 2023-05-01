@@ -22,7 +22,7 @@ I'm doritogodkayd... But you can call me Kayd
 </details>
 >
 
-[![Mustan's github stats](https://github-readme-stats.vercel.app/api?username=0BunnySenpai0&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mustan's github stats](https://github-readme-stats.vercel.app/api?username=doritogodkayd&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0BunnySenpai0&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Trophy things](https://github-profile-trophy.vercel.app/?username=0BunnySenpai0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->**
