@@ -7,7 +7,7 @@ I'm doritogodkayd... But you can call me Kayd
 <details> 
   <summary> About Me</summary>
   
-  BunnySenpai is a name I came up with from one of my anime "Rascal Does Not Dream of Bunny Girl Senpai" then I just added a couple of zeros and that's the story of my name!
+  i am a kid in middle school that makes school hacks to make school more easier!
   
 </details>
 
