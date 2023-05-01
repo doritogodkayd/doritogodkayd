@@ -1,5 +1,6 @@
 **
-# doritogodkayd ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966 (1)](https://user-images.githubusercontent.com/96202635/149608518-93777048-6ec3-437c-be9f-1327ae6ff6dd.gif)
+# doritogodkayd ![luffy-mugen](https://user-images.githubusercontent.com/132175870/235389344-4ff5cd50-9b30-4363-81b1-234c44dec7b9.gif)
+
 
 I'm doritogodkayd... But you can call me Kayd
 <details> 
