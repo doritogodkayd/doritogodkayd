@@ -1,16 +1,26 @@
-### Hi there 👋
+**
+# 0BunnySenpai0  ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966 (1)](https://user-images.githubusercontent.com/96202635/149608518-93777048-6ec3-437c-be9f-1327ae6ff6dd.gif)
 
-<!--
-**doritogodkayd/doritogodkayd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 0BunnySenpai0... But you can call me Senpai
+<details> 
+  <summary> About Me</summary>
+  
+  BunnySenpai is a name I came up with from one of my anime "Rascal Does Not Dream of Bunny Girl Senpai" then I just added a couple of zeros and that's the story of my name!
+  
+</details>
 
-Here are some ideas to get you started:
+<details>
+  <summary>📨 Contact</summary>
+  
+  | | Service | Value | Note |
+  | - | ------- | ----- | ---- |
+  | ✉ | *Email* | xcirnfortnite@gmail.com | My main email! I check this regularly. |
+  | 💻 | *Github* | [doritgodkayd](https://github.com/doritogodkayd) | What a surprise. |
+  you may notice a pattern, it's usually 0Bunny + Senpai0
+</details>
+>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Mustan's github stats](https://github-readme-stats.vercel.app/api?username=0BunnySenpai0&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0BunnySenpai0&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Trophy things](https://github-profile-trophy.vercel.app/?username=0BunnySenpai0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->**
