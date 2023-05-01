@@ -1,7 +1,7 @@
 **
-# 0BunnySenpai0  ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966 (1)](https://user-images.githubusercontent.com/96202635/149608518-93777048-6ec3-437c-be9f-1327ae6ff6dd.gif)
+# doritogodkayd ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966 (1)](https://user-images.githubusercontent.com/96202635/149608518-93777048-6ec3-437c-be9f-1327ae6ff6dd.gif)
 
-I'm 0BunnySenpai0... But you can call me Senpai
+I'm doritogodkayd... But you can call me Kayd
 <details> 
   <summary> About Me</summary>
   
@@ -16,7 +16,7 @@ I'm 0BunnySenpai0... But you can call me Senpai
   | - | ------- | ----- | ---- |
   | ✉ | *Email* | xcirnfortnite@gmail.com | My main email! I check this regularly. |
   | 💻 | *Github* | [doritgodkayd](https://github.com/doritogodkayd) | What a surprise. |
-  you may notice a pattern, it's usually 0Bunny + Senpai0
+  
 </details>
 >
 
